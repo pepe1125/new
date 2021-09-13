@@ -4,4 +4,4 @@ for x in range(10):
 a = 3
 b = 7
 c = a+b
-print(' Az "a" értéke:', a, '+ "b" értéke:', b, 'aminek az összege =', c)
+print('Az "a" értéke:', a, '+ "b" értéke:', b, 'aminek az összege =', c)
